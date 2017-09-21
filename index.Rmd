@@ -11,7 +11,6 @@ description: ""
 ---
 
 ```{r echo = FALSE , eval = TRUE , results = "hide" }
-file.copy( "CNAME" , "docs/CNAME" , overwrite = TRUE )
 file.copy( "404.html" , "docs/404.html" , overwrite = TRUE )
 ```
 
